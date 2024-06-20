@@ -46,20 +46,20 @@ if(keyboard_check_released(vk_shift)){
 	if(xdir = x){ // if player is facing up or down
 		if (dirmod = 1){ // if player is facing down
 			if(!place_meeting(x,y + (64 * throwpower), collparent_obj))
-				instance_create_layer(x, y + (64 * throwpower), "oldPaint_layer", bomba_obj)
+				instance_create_layer(x, y + (64 * throwpower), "oldPaint_layer", bomba2_obj)
 		}
 		else	// if player is facing up
 			if(!place_meeting(x,y + (64 * -throwpower), collparent_obj))
-				instance_create_layer(x, y + (64 * -throwpower), "oldPaint_layer", bomba_obj)
+				instance_create_layer(x, y + (64 * -throwpower), "oldPaint_layer", bomba2_obj)
 	}
 	
 	else	// if player is facing left or right
 		if (dirmod = 1){ // if player is facing right
 			if(!place_meeting(x + (64 * throwpower), y, collparent_obj))
-				instance_create_layer(x+(64*throwpower),y,"oldPaint_layer",bomba_obj)
+				instance_create_layer(x+(64*throwpower),y,"oldPaint_layer",bomba2_obj)
 		}
 		else	// if player is facing left
 			if(!place_meeting(x+(64*-throwpower),y,collparent_obj))
-				instance_create_layer(x+(64*-throwpower),y,"oldPaint_layer",bomba_obj)
+				instance_create_layer(x+(64*-throwpower),y,"oldPaint_layer",bomba2_obj)
 	throwpower = 1
 }

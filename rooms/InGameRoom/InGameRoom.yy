@@ -55,6 +55,7 @@
     {"name":"inst_368FC572","path":"rooms/InGameRoom/InGameRoom.yy",},
     {"name":"inst_5870CD5C","path":"rooms/InGameRoom/InGameRoom.yy",},
     {"name":"inst_81E04ED","path":"rooms/InGameRoom/InGameRoom.yy",},
+    {"name":"inst_26EF6238","path":"rooms/InGameRoom/InGameRoom.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -111,6 +112,7 @@
         {"$GMRInstance":"","%Name":"inst_368FC572","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_368FC572","objectId":{"name":"tile_obj","path":"objects/tile_obj/tile_obj.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1760.0,"y":448.0,},
         {"$GMRInstance":"","%Name":"inst_5870CD5C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5870CD5C","objectId":{"name":"tile_obj","path":"objects/tile_obj/tile_obj.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2496.0,"y":320.0,},
         {"$GMRInstance":"","%Name":"inst_81E04ED","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_81E04ED","objectId":{"name":"tile_obj","path":"objects/tile_obj/tile_obj.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2496.0,"y":928.0,},
+        {"$GMRInstance":"","%Name":"inst_26EF6238","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_26EF6238","objectId":{"name":"obj_ringexp","path":"objects/obj_ringexp/obj_ringexp.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1632.0,"y":768.0,},
       ],"layers":[],"name":"oldPaint_layer","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4285423359,"depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],

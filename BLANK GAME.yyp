@@ -40,6 +40,8 @@
     {"id":{"name":"depthcounter_obj","path":"objects/depthcounter_obj/depthcounter_obj.yy",},},
     {"id":{"name":"multiplayer_obj","path":"objects/multiplayer_obj/multiplayer_obj.yy",},},
     {"id":{"name":"obj_playerparent","path":"objects/obj_playerparent/obj_playerparent.yy",},},
+    {"id":{"name":"obj_ringexp","path":"objects/obj_ringexp/obj_ringexp.yy",},},
+    {"id":{"name":"obj_ringexp2","path":"objects/obj_ringexp2/obj_ringexp2.yy",},},
     {"id":{"name":"player_obj","path":"objects/player_obj/player_obj.yy",},},
     {"id":{"name":"player2_obj","path":"objects/player2_obj/player2_obj.yy",},},
     {"id":{"name":"ring_obj","path":"objects/ring_obj/ring_obj.yy",},},

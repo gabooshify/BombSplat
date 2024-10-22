@@ -1,5 +1,5 @@
 
-
+/*
 for(var i = 0; i < 2880; i++){
 	if(lines[i] == minradius && !instance_position(x + lines[i] * dcos(i/8), y - lines[i] * dsin(i/8), wall_obj) && lines[i] < maxradius){// if the line's length is equal to current minradius
 		lines[i]++	// add one to that line's length
@@ -14,6 +14,16 @@ for(var i = 0; i < 2880; i++){
 		instance_destroy(player_obj)
 	
 }
+*/
+
+for(var i = 0; i < 2160; i++){
+	if(linescoll[i] == false && lines[i] < maxradius){
+		lines[i]++
+	}
+	
+	draw_line_color(x, y, x + lines[i] * dcos(i/6), y - lines[i] * dsin(i/6), c_green,c_green);
+}
+
 
 minradius++
 

@@ -1,0 +1,1 @@
+BombSplat is a 1v1 competitive top-down multiplayer game where players battle by throwing physics-based bombs to cover more of the arena with their color. Inspired by Splatoon’s Turf War mechanics, the objective is to strategically control territory through explosive splatter effects.
